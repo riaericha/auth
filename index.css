@@ -1,0 +1,36 @@
+*{
+    font-family: Helvetica, Arial, Georgia, Tahoma and Roboto;
+    color: white;
+
+}
+body{
+   background-image: url("background.jpg");
+   max-width: 100%;
+}
+h1{
+    font-size: xx-large;
+}
+.first-child{
+    line-height: 4px;
+}
+.parent{
+    align-items: center;
+    text-align: center;
+    align-content: center; 
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+.button{
+    border-radius: 10px;
+    background-color: #ff54e0;
+    padding: 20px;
+    
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    color: red;
+}
